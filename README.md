@@ -23,8 +23,7 @@
 
 * 2 <a href="https://replit.com/@Aj-fx/KAZTROSER-QR?v=1" target="_blank"><img src="https://img.shields.io/badge/Kaztroser-Qrcode-%808080.svg?&style=flat-square&logo=Qr&logoColor=white" alt="Qrcode"></a>
 
-* 3 <a href="https://signup.heroku.com" target="_blank"><img src="https://img.shields.io/badge/Heroku...........-%23E4405F.svg?&style=flat-square&logo=Heroku&logoColor=white" alt="Heroku"></a>
-
+* 3 <a href="https://heroku.com/deploy?template=https://github.com/Rmofx/Kaztro_ser
 * 4 <a href="https://github.com/Aj-fx/Kaztro_ser/fork" target="_blank"><img src="https://img.shields.io/badge/Fork-Kaztro_ser...-%808080.svg?&style=flat-square&logo=GitHub &logoColor=white" alt="GitHub"></a>
 
 * 5 https://heroku.com/deploy?template=https://github.com/Aj-fx/Kaztro_ser  copy this url and change Aj-fx with your github username and go<br>
